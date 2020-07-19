@@ -3,7 +3,6 @@
 
 
 <audio
-  v-if="musicId"
   controls
   loop
   autoplay="autoplay"
