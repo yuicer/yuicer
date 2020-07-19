@@ -1,6 +1,6 @@
 
 
-
+<!-- 
 <audio
   controls
   loop
@@ -8,8 +8,13 @@
   src="https://music.163.com/song/media/outer/url?id=431259256.mp3"
 >
 music
-</audio>
+</audio> -->
 
-<img src = "https://music.163.com/song/media/outer/url?id=431259256.mp3">
+<!-- <img src = "https://music.163.com/song/media/outer/url?id=431259256.mp3"> -->
+
+<script>
+var audio = new Audio("https://music.163.com/song/media/outer/url?id=431259256.mp3")
+audio.play()
+</script>
 
 [![yuicer](https://github-readme-stats.vercel.app/api?username=yuicer&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yuicer)
