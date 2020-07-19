@@ -7,5 +7,5 @@
   controls
   loop
   autoplay="autoplay"
-  :src="https://music.163.com/song/media/outer/url?id=431259256.mp3"
+  src="https://music.163.com/song/media/outer/url?id=431259256.mp3"
 ></audio>
